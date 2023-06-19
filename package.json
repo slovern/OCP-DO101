@@ -1,0 +1,19 @@
+{
+  "name": "ocp-do101",
+  "version": "1.0.0",
+  "description": "OCP training DO101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:slovern/OCP-DO101.git"
+  },
+  "author": "slovern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slovern/OCP-DO101/issues"
+  },
+  "homepage": "https://github.com/slovern/OCP-DO101#readme"
+}
